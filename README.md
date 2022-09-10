@@ -9,4 +9,3 @@ Program membuat Image Classification Model Deployment menggunakan bahasa pemrogr
 - Menggunakan Callback.
 - Membuat plot terhadap akurasi dan loss model.
 - Menulis kode untuk menyimpan model ke dalam format TF-Lite.
-- Dataset tidak pernah digunakan pada submission kelas machine learning sebelumnya.
